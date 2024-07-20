@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\unity\\test1\\Checked2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\prefabs\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\enemy\\leader\\boos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\boos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|d:\\git\\unity\\test1\\checked2\\assets\\scripts\\prefabs\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabs\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|D:\\git\\unity\\test1\\Checked2\\assets\\scripts\\enemy\\leader\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFFEAA7-7322-FB0D-33F1-1A8F89B8610E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\leader\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:52:49.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:52:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Shield.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Shield.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Shield.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Shield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:50:53.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Minion.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Minion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Minion.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Minion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Minion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:50:43.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orb.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Orb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Orb.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Orb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Orb.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:45:44.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Missile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prefabs\\Missile.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Prefabs\\Missile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prefabs\\Missile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwBoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:44:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BOOS.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\BOOS.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\BOOS.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\BOOS.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\BOOS.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:21:56.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Leader\\Skill.cs",
+              "ToolTip": "D:\\git\\unity\\test1\\Checked2\\Assets\\Scripts\\Enemy\\Leader\\Skill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Leader\\Skill.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAxwJoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:19:07.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

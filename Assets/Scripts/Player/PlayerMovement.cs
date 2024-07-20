@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -17,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
     public float hurtForce;
 
     public bool isDead;
+
+    public Transform newPoint;
 
 
     void Start()
@@ -83,7 +86,15 @@ public class PlayerMovement : MonoBehaviour
     {
         isDead = true;
         //让人物无法操作
-        rb.bodyType = RigidbodyType2D.Static;
+        SceneManager.LoadScene("EndScenes");    
+    }
+
+    public void Restart ()
+    {
+        Debug.Log("100000");
+        transform.position = newPoint.position;
+        GetComponent<Character>().currentHealth = 100f;
+        isDead = false;
     }
 
 }
